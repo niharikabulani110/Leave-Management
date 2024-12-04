@@ -24,15 +24,7 @@ The system implements three main user roles:
    - Inherits all Employee permissions
    - Can view leave requests from their team members
    - Approve or reject leave requests
-   - View team leave calendar
-   - Generate team leave reports
 
-3. **HR Administrator**
-   - Has full system access
-   - Can manage user roles and assignments
-   - View all leave requests across the organization
-   - Generate organization-wide reports
-   - Configure leave types and policies
 
 ## Features
 
