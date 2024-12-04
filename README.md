@@ -17,7 +17,6 @@ The system implements three main user roles:
 1. **Employee**
    - Can create new leave requests
    - View their own leave history
-   - Cancel their pending leave requests
    - View their leave balance
 
 2. **Manager**
