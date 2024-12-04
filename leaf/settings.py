@@ -32,7 +32,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
 ]
 
-CSRF_TRUSTED_ORIGINS = ['https://django-server-production-818d.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://django-server-production-818d.up.railway.app']
 
 
 # Application definition
